@@ -18,7 +18,7 @@ Once complete, please send a link to your repository to [sresar@connectwise.com]
 ## Directions
 
 1. Fork this repository to create a new working copy for your work.
-1. To conduct your analysis, we have provided a dataset for download [here]().
+1. To conduct your analysis, we have provided a dataset for download [here](https://s3.amazonaws.com/cc-analytics-datasets/Building_Permits.csv).
 1. Load the data from the provided source and review the summary statistics for the included features.
 1. Describe the distribution of the __ fields. What does it tell us?
 1. The executive team is interesting is the behavior between _Field A_ and _Field B_, perform a simple regression analysis of this relationship and describe what insights we can gleam from this.

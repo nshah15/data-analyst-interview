@@ -15,8 +15,10 @@ The aim of this test is to assess your overall preparedness for typical tasks th
 ## Submission
 Once complete, please send a link to your repository to [sresar@connectwise.com](mailto:sresar@connectwise.com).
 
-## Direction
+## Directions
 
 1. Fork this repository to create a new working copy for your work.
 1. To conduct your analysis, we have provided a dataset for download [here]().
-1. 
+1. Load the data from the provided source and review the summary statistics for the included features.
+1. Describe the distribution of the __ fields. What does it tell us?
+1. The executive team is interesting is the behavior between _Field A_ and _Field B_, perform a simple regression analysis of this relationship and describe what insights we can gleam from this.

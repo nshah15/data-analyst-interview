@@ -9,7 +9,7 @@ The aim of this test is to assess your overall preparedness for typical tasks th
 ## Rules
 
 * Unless explicitly stated, please provide your analysis through code or comments.
-* You are free to whatever language and environment desired to complete this task. However, we expect to be able to recreate your work if necessary. Please provide an enviornment files (requirements.txt, package.json, etc.) in your completed analysis. Interactive environments such as Jupyter Notebooks are preferred.
+* You are free to use whatever language and environment desired to complete this task. However, we expect to be able to recreate your work if necessary. Please provide any enviornment files (requirements.txt, package.json, etc.) in your completed analysis. Interactive environments such as Jupyter Notebooks are preferred.
 * Submissions for this project will only be accepted and considered by applicants that have been specifically requested to do so.
 
 ## Submission
@@ -25,5 +25,6 @@ Once complete, please send a link to your repository to [sresar@connectwise.com]
    - Total different types of construction
    - Mean and median number of stories
    - Standard deviation for the X and Y coordinates of the permits
-1. Plot the distributions for the following features: Estimated Project Cost and Issue Date Month. Describe the distributions for these fields and explain what insights you might be able to gather.
-1. The executive team is interesting is the behavior between _Permit Issue Date_ and _Estimated Project Cost_, but only for New construction of type "V  B" with less than 3 stories. Perform a simple regression analysis of this relationship and describe what insights we can gleam from this. -(Hint: Implement handling for missing values and explain your reasoning. 
+1. Plot the distributions for each of the following features: _Estimated Project Cost_ and _Issue Date Month_. Describe the distributions for these fields and explain what insights you might be able to gather.
+1. The executive team is interesting is the behavior between _Permit Issue Date_ and _Estimated Project Cost_, but only for "New" construction of type "V  B" with less than 3 stories. Perform a simple regression analysis of this relationship and describe what insights we can gleam from this using success metrics. _(Hint: Implement handling for missing values and explain your reasoning.)_ 
+1. Commit all changes and analysis, then email your completed submission.

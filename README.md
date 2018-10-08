@@ -26,5 +26,5 @@ Once complete, please send a link to your repository to [sresar@connectwise.com]
    - Mean and median number of stories
    - Standard deviation for the X and Y coordinates of the permits
 1. Plot the distributions for each of the following features: _Estimated Project Cost_ and _Issue Date Month_. Describe the distributions for these fields and explain what insights you might be able to gather.
-1. The executive team is interesting is the behavior between _Permit Issue Date_ and _Estimated Project Cost_, but only for "New" construction of type "V  B" with less than 3 stories. Perform a simple regression analysis of this relationship and describe what insights we can gleam from this using success metrics. _(Hint: Implement handling for missing values and explain your reasoning.)_ 
+1. The executive team is interested is the behavior between _Permit Issue Date_ and _Estimated Project Cost_, but only for "New" construction of type "V  B" with less than 3 stories. Perform a simple regression analysis of this relationship and describe what insights we can gleam from this using success metrics. _(Hint: Implement handling for missing values and explain your reasoning.)_ 
 1. Commit all changes and analysis, then email your completed submission.
